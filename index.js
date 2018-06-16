@@ -28,5 +28,5 @@ switchOnCharmFromTip(tip) {
       message = 'Bye.'
       break;
   }
-  message;
+  return message;
 }
