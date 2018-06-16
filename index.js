@@ -1,3 +1,4 @@
+const rideLength, cost;
 scuberGreetingForFeet(rideLength) {
   if (rideLength<400) {
     cost = "This one is on me!";
