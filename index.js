@@ -9,3 +9,11 @@ function scuberGreetingForFeet(rideLength) {
   }
   return cost
 }
+
+function ternaryCheckCity(city) {
+  let message
+  if (city = "NYC") {
+    message = "Ok, sounds good."
+  } 
+  return message
+}
