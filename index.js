@@ -26,7 +26,7 @@ switchOnCharmFromTip(tip) {
       break;
     case 'thanks for everything':
       message = 'Bye.'
-      break
+      break;
   }
   message;
 }
