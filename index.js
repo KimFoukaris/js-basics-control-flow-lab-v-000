@@ -8,4 +8,5 @@ scuberGreetingForFeet(rideLength) {
   } else if (rideLength>2500) {
     cost = "No can do."
   }
+  return cost
 }
