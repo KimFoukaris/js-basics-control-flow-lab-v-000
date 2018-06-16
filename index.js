@@ -1,5 +1,5 @@
 const rideLength, cost;
-scuberGreetingForFeet(rideLength) {
+function scuberGreetingForFeet(rideLength) {
   if (rideLength<400) {
     cost = "This one is on me!";
     break;
